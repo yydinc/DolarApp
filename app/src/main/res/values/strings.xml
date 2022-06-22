@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DolarApp</string>
+    <string name="channel_name">NotChannel</string>
+    <string name="channel_description">Notification Channel</string>
+</resources>
